@@ -10,5 +10,5 @@ class person:
  print(self.age)
 class student(person):
  pass
-s1=student("RIYA" ,"JAIN", 20)
+s1=student("Akshat" ,"Vyas", 20)
 s1.show()
